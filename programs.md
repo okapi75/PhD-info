@@ -46,17 +46,17 @@ and February have higher chances of securing funding.
 </p>
 <h1> EMPA - Materials Science and Technolgy </h1>
 <div>
-	<p1>
+	<p>
 	    Here is a <a href = "https://www.empa.ch/web/empa/"> 
 	    link </a> to a web-site of the group
-	</p1>
-	<p1>
+	</p>
+	<p>
 	    They are based on ETH Zurich university and develop primarilly solar-cells. They
 	    are mixture of engineering and fundamrntal science and sth like, I suppose,
 	    a Nanomaterials lab in Skoltech
-	</p1>
-	<p1>
+	</p>
+	<p>
 	    They even have <a href = "https://www.youtube.com/user/EmpaChannel/videos">
 	    YouTube channel </a> and it is wonderful at some sence :))
-	</p1>
+	</p>
 </div>
