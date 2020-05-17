@@ -60,3 +60,15 @@ and February have higher chances of securing funding.
 	    YouTube channel </a> and it is wonderful at some sence :))
 	</p>
 </div>
+
+<h1> The University of Chicago </h1>
+<div>
+<p>
+	<a href = "https://talapinlab.uchicago.edu/"> Lab </a> 
+	of Dmitri Talapin
+</p>
+<p>
+	For now just a <a href = "https://apply-psd.uchicago.edu/apply/">
+	link </a> to an application site
+</p>
+</div
