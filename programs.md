@@ -71,4 +71,16 @@ and February have higher chances of securing funding.
 	For now just a <a href = "https://apply-psd.uchicago.edu/apply/">
 	link </a> to an application site
 </p>
-</div
+</div>
+
+<div>
+<h1> Karlsruhe Institute of Technology </h1>
+
+<p> Veery much vacancies not only in academic area </p>
+<p>
+	Here is a 
+	<a href="http://www.kit.edu/kit/english/institutes.php"> link </a>
+	to site with all institutes starting from electrical engineering and ending with 
+	nanophotonics labs
+</p> 
+</div>
