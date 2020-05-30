@@ -33,3 +33,21 @@ MIT-шные курсы по квантам </a>
 </a>
 </p>
 </div>
+
+<div>
+	<h3> Ссылки на позиции </h3>
+	<p><a href="https://www.laserlab-europe.eu/career/training-education-and-mobility#mobility">
+	  Лазерные лабы:
+	</a>
+	объединение. По ссылке их публикации, стажировки и позиции, ревью того, что они делают
+	</p>
+</div>
+
+<div>
+	<h3> Просто сайты с полезностями </h3>
+	<p>
+	  <a href="https://www.vitae.ac.uk/impact-and-evaluation/what-do-researchers-do/what-do-researchers-do">
+	  Realising the potential of researches </a>
+	  В целом про исследователей, какие-то общие факты
+	</p>
+</div>
