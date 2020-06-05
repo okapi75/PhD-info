@@ -13,15 +13,15 @@
 	в жизни
   </h5>
   <p>
-    Запилить <a href='site_examples'>личный сайт</a>, 
+    Запилить <a href='#site_examples'>личный сайт</a>, 
 	для этого уже наконец надо пройти курсы по Web
   </p>
   <p>
-    <a href='action'>Активно</a> писать в 
+    <a href='#action'>Активно</a> писать в 
 	<a href='https://github.com/okapi75/PhD-info/blob/master/programs.md'>лаборатории</a>
   </p>
   <p>
-    Найти <a href='job_Moscow'>работу в Москве</a>, 
+    Найти <a href='#job_Moscow'>работу в Москве</a>, 
 	ближе к индустрии
   </p>
   <p>
@@ -36,7 +36,7 @@
 <div>
 <h3> Примеры личных сайтов </h3>
 <p>
-<a href='#site_examples'>
+<a id='site_examples'>
 </a>
   <a href='https://mtikhonov.com/blog'>
   Блог чувака с кафмата
@@ -45,7 +45,7 @@
 </div>
 
 <div>
-  <p> <a href='#action'></a>
+  <p> <a id='action'></a>
     <ul>
 	  <li>
 	    Больше напишешь - выше вероятность получить положительный ответ
@@ -61,7 +61,7 @@
 </div>
 
 <div>
-  <a href='#job_Moscow'></a>
+  <a id='job_Moscow'></a>
   <p>
     Изучить Matlab
   </p>
