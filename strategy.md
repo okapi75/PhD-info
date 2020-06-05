@@ -7,7 +7,7 @@
 	float: left;
 	}
 </style>
-<div class='block1'>
+<div style='border: solid 1px black'>
   <h5>
     Полезные мысли, которые нужно стараться воплощать в процессе определения своего места 
 	в жизни
