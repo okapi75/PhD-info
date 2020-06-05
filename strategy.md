@@ -1,5 +1,5 @@
 <h3> Структурируй! </h3>
-<style type="text/class">
+<style>
 	.block1 {
 	width: 200px;
 	padding: 5px;
