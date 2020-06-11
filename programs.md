@@ -84,3 +84,39 @@ and February have higher chances of securing funding.
 	nanophotonics labs
 </p> 
 </div>
+
+<div>
+<h5> List of labs where I should write to </h5>
+<p>
+  <a href="https://www.findaphd.com/phds/project/nanomaterials-as-white-light-emitters-for-low-cost-lighting/?p86964">
+  Nanomaterials as White Light Emitters for Low Cost Lighting </a>
+  - This is the project for which all steps are determined well (Project aims are structured
+  in the bottom of a page. This is just from findaphd.com and applications are accepted all
+  tear round. University of Bradford, department of Life Sciences.
+</p>
+
+<p>
+  <a href="https://www.findaphd.com/phds/project/quantum-coherence-and-carrier-dynamics-in-colloidal-nanostructures-from-dots-to-1d-and-2d-materials/?p106541">
+  Quantum coherence and carrier dynamics in colloidal nanostructures from dots to 1D and 2D materials
+  </a>
+  - This is the project with colloidal nanostructure what is already interesting enough for research.
+  Host: Cardiff University, School of Physics and Astronomy
+</p>
+
+<p>
+  <a href="http://ldsd.group.shef.ac.uk/research/2d-materials/"> 
+  Sub-wavelength all-dielectric nano-photonics: 2D materials and beyond </a>
+  - An outstanding lab (according to an advertisment) with 4PhD and 3 postdocs. Very 
+  strong team with the head from Russia, Tartakovskii. But the work at some sence is connected
+  with investigations of spins states. It is a little bit sad. But it is worth to write there.
+  Host: The University of Sheffield
+</p>
+
+<p>
+  Also there are several supervisors from thos lab like E Chekhovich, D Krizhanovskii
+  M Fox (Quantum optics using quantum dots), M S Skolnick. If i am not mistaken, they all
+  are from one lab/several collaborating labs. It is possible to find them in the previous link or
+  on <a href="https://www.sheffield.ac.uk/postgraduate/phd/scholarships/projects> this site </a>
+  in the section "semiconductors" in Search
+</p>
+</div>
