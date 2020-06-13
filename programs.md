@@ -83,10 +83,22 @@ and February have higher chances of securing funding.
 	to site with all institutes starting from electrical engineering and ending with 
 	nanophotonics labs
 </p> 
+
 </div>
 
 <div>
-<h5> List of labs where I should write to </h5>
+<h1> Walter Schottky Institute </h1>
+<p> is a part of Technical University of Munich </p>
+<p>
+  <a href="https://www.wsi.tum.de/index.php"> Link </a>
+  to a site of all research groups. As usual, photonics prevails but there are
+  some interesting topics on materials, 2D-fabrication or IR sources (VSCEL on heterojunctions - 
+  they are studied by prof Belkin's group)
+</p>
+</div>
+
+<div>
+<h3> List of labs where I should write to </h3>
 <p>
   <a href="https://www.findaphd.com/phds/project/nanomaterials-as-white-light-emitters-for-low-cost-lighting/?p86964">
   Nanomaterials as White Light Emitters for Low Cost Lighting </a>
@@ -118,5 +130,18 @@ and February have higher chances of securing funding.
   are from one lab/several collaborating labs. It is possible to find them in the previous link or
   on <a href="https://www.sheffield.ac.uk/postgraduate/phd/scholarships/projects> this site </a>
   in the section "semiconductors" in Search
+</p>
+
+<p>
+  <a href="https://www.cens.de/careers/international-call-for-phd-students-and-postdocs/krenner-phd-2020/">
+  Optomechanics with Quantum dots </a>
+  A PhD position for investigation of single quantum dots under low temperatures by IR laser
+  spectroscopy. Main goal for project is to develop a photonic circuits to enhance or
+  suppress the integration between elastic waves and QDs. Project contains complex numerical
+  modeling and fabrication process. Required strong knowledge of semiconductors, solid state,
+  preferably sc quantum optics, and benefitially clean room skills.
+  <a href='http://www.physik.uni-augsburg.de/exp1/emmynoether/'> Group site </a> 
+  with e-mails of lab leader Hubert J. Krenner.
+  Host: Ausburg University and Ludwig Maximillian Universitat Munchen.
 </p>
 </div>
