@@ -144,4 +144,28 @@ and February have higher chances of securing funding.
   with e-mails of lab leader Hubert J. Krenner.
   Host: Ausburg University and Ludwig Maximillian Universitat Munchen.
 </p>
+
+<p>
+  <h4> ASAP!!! </h4>
+  <a href='https://www.fz-juelich.de/pgi/pgi-9/EN/Forschung/001-High-Performance-IT/011-Group-IV-alloys/_node.html'>
+  Group of Direct bandgap alloys </a>
+  in Peter Grunberg (you remember that text about Nobel prize winners in English seminar)
+  Institute in Julich. Very cool prerequisites - everything suits to me and I suit for everything.
+  <p>
+  <a href = 'https://www.fz-juelich.de/SharedDocs/Stellenangebote/_common/dna/2020D-020-EN-PGI-9.html?nn=722008'>
+  Official vacancy on Institute's site. </a>
+  </p>
+  <p>
+  I think that it would be better to write Dan Buca, the head of the group. By the way, he
+  has quite a lot of fresh and well-cited papers.
+  </p>
+</p>
+<p>
+  <a href='https://www.graphenelabs.at/'> Thomas Mueller research group </a>
+  They are dealing with 2D materials and Thomas had a performance in Skoltech not so long
+  ago. He is a really cool specialist - it is fully proved by his Hirsch at Google Scholar.
+  As usual, there are lots of equipment but the main thing is that they have a cleanroom. I
+  do not exactly know if they have actual tasks on 2D materials or sth that suits me but
+  moreover I should write and find out this uncertainties.
+</p>
 </div>
