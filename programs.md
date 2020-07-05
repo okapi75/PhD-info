@@ -161,11 +161,19 @@ and February have higher chances of securing funding.
   </p>
 </p>
 <p>
+  <h4> 2D materials </h4>
   <a href='https://www.graphenelabs.at/'> Thomas Mueller research group </a>
   They are dealing with 2D materials and Thomas had a performance in Skoltech not so long
   ago. He is a really cool specialist - it is fully proved by his Hirsch at Google Scholar.
   As usual, there are lots of equipment but the main thing is that they have a cleanroom. I
   do not exactly know if they have actual tasks on 2D materials or sth that suits me but
   moreover I should write and find out this uncertainties.
+</p>
+<p>
+  <h4> ESPCI Paris </h4>
+  <a href="https://qs.lpem.espci.fr/home/jobs/"> A lab of quantum sciences </a>
+  There are lots of russians in this lab. They are studying sth like tunneling, correlations,
+  some magnons and all these quantum things. Interesting and more or less looks like 
+  what people in Skoltech (not me) are doing. By the way, it is necessary to wtite.
 </p>
 </div>
