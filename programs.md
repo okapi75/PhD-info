@@ -176,4 +176,12 @@ and February have higher chances of securing funding.
   some magnons and all these quantum things. Interesting and more or less looks like 
   what people in Skoltech (not me) are doing. By the way, it is necessary to wtite.
 </p>
+<p>
+  <h4> Max Planck Institute (for solid state research) </h4>
+  <a href='https://www.fkf.mpg.de/smet'> Group of Solid State Nanophysics </a>
+  more than any other groups does suit me. Although they do not study materials themselves
+  but the research is good for deeper diving into 2D materials (correlation effects and so on).
+  On site there os info that they do not have vacancies but it deserves to try to ask about
+  an internship.
+</p>
 </div>
