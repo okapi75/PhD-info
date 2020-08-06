@@ -184,4 +184,11 @@ and February have higher chances of securing funding.
   On site there os info that they do not have vacancies but it deserves to try to ask about
   an internship.
 </p>
+<p>
+  <h4> ETH Zurich (finally :)) </h4>
+  <a href='https://omel.ethz.ch/'> Optical materials engineering laboratory </a> a cool place
+  in Switzerland supervised by Norris (with Bawendi wrote papers which I used in thesis.
+  Very nice group with many PhDs but only 2 postdocs (low probability of further work). 
+  What they do absolutely suits me (see sentence about Norris' papers)
+</p>
 </div>
