@@ -191,4 +191,26 @@ and February have higher chances of securing funding.
   Very nice group with many PhDs but only 2 postdocs (low probability of further work). 
   What they do absolutely suits me (see sentence about Norris' papers)
 </p>
+<p>
+  <h4> Cambridge University </h4>
+  <a href="http://hne.eng.cam.ac.uk/Vacancies.html"> Centre for doctoral training in 
+  Graphene Technology </a> Tafwique Hassan's part of this centre. The main strange thing is
+  that there are very little students not from China - can't it mean that the group is
+  quite self-isolated. By the way, Head of the lab is a young person with huge amount of 
+  citations on Google Scholar. Group is doing quite an applicable things based on graphene and
+  also on TMDCs.
+</p>
+  <h4> Optoelectronics. Cavendish Laboratory, Cambridge </h4>
+  <a href="https://www.oe.phy.cam.ac.uk/"> Optoelectronics ar Cambidge </a>
+  They are more about solar cells and LEDs - experiment and applications. Head of group is
+  Erica Eiser (sounds rather familiar for me, seems like I have read her papers). According
+  to their cite, there are lots of students (or they do not divide former and present students).
+  Problem is that application is not free - payment is 70 pounds
+<p>
+  <h4>Semiconductor Physics Group, Cambidge</h4>
+  <a href="https://www.sp.phy.cam.ac.uk/"> Semiconductors </a>
+  Very many topics that they work on. Different techniques: from spectroscopy to conplicated
+  MBE. Very huge group. Can't understand if they need any PhD students.
+</p>
+
 </div>
