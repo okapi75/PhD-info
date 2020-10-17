@@ -93,7 +93,14 @@ and February have higher chances of securing funding.
   <a href="https://www.wsi.tum.de/index.php"> Link </a>
   to a site of all research groups. As usual, photonics prevails but there are
   some interesting topics on materials, 2D-fabrication or IR sources (VSCEL on heterojunctions - 
-  they are studied by prof Belkin's group)
+  they are studied by prof Belkin's group).
+</p>
+<p>
+  Also there are interesting groups: 
+  <ul>
+    <li>Photonic Quantum Engineering: Kai Mueller (see info on site)</li>
+	<li>Holleitner group (fastly grows)</li>
+  </ul>
 </p>
 </div>
 
@@ -159,6 +166,9 @@ and February have higher chances of securing funding.
   I think that it would be better to write Dan Buca, the head of the group. By the way, he
   has quite a lot of fresh and well-cited papers.
   </p>
+  <p>
+  
+  </p>
 </p>
 <p>
   <h4> 2D materials </h4>
@@ -212,5 +222,22 @@ and February have higher chances of securing funding.
   Very many topics that they work on. Different techniques: from spectroscopy to conplicated
   MBE. Very huge group. Can't understand if they need any PhD students.
 </p>
-
+<p>
+  <h4>2ND INSTITUTE OF PHYSICS A. Aachen university</h4>
+  <a href="http://institut2a.physik.rwth-aachen.de/start/"> Our research focuses on developing 
+  advanced processing technologies for studying and exploiting quantum mechanical phenomena in 
+  nanometer-scale solid-state devices. Our main activities presently lie in the fields of 
+  graphene, bismuth-based topological insulators, semiconductors, quantum dots, spin transport 
+  and confocal Raman spectroscopy. Partly applied and partly fundamental science. Looks good.
+  Need to write to the director, Christoph Stampfer.
+ </p>
+ <p>
+   <h4>Institute of Physics (IA). Aachen university</h4>
+   <a href="https://www.institut-1a.physik.rwth-aachen.de/cms/INSTITUT-1A/~huhl/Forschung/lidx/1/">
+   More applied science in comparison with 2nd institute of physics </a>
+     <ul>
+	   <li> Infrared nanooptics: Prof. Thomas Taubner</li>
+	   <li> Phase Change memory: Matthias Wuttig</li>
+	 </ul>
+ </p>
 </div>
